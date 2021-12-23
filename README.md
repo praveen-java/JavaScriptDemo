@@ -1,3 +1,3 @@
-# ServletDemos
+# JavaScriptDemos
 
-This is Servlet Demos project.
+This is JavaScript Demos project.
